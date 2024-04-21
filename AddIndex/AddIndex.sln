@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddIndex", "AddIndex.csproj", "{A23EA47D-009F-460F-996C-D210B94B62E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23EA47D-009F-460F-996C-D210B94B62E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23EA47D-009F-460F-996C-D210B94B62E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23EA47D-009F-460F-996C-D210B94B62E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23EA47D-009F-460F-996C-D210B94B62E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140396CA-51E2-479B-88A9-C1EE547C11C4}
+	EndGlobalSection
+EndGlobal

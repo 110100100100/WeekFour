@@ -1,0 +1,14 @@
+C:\cs\CodeGymT4\AddIndex\bin\Debug\net8.0\AddIndex.exe
+C:\cs\CodeGymT4\AddIndex\bin\Debug\net8.0\AddIndex.deps.json
+C:\cs\CodeGymT4\AddIndex\bin\Debug\net8.0\AddIndex.runtimeconfig.json
+C:\cs\CodeGymT4\AddIndex\bin\Debug\net8.0\AddIndex.dll
+C:\cs\CodeGymT4\AddIndex\bin\Debug\net8.0\AddIndex.pdb
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.AssemblyInfoInputs.cache
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.AssemblyInfo.cs
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.dll
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\refint\AddIndex.dll
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.pdb
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\AddIndex.genruntimeconfig.cache
+C:\cs\CodeGymT4\AddIndex\obj\Debug\net8.0\ref\AddIndex.dll
