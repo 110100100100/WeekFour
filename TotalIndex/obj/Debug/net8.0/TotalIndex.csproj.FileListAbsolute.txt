@@ -1,0 +1,14 @@
+C:\cs\CodeGymT4\TotalIndex\bin\Debug\net8.0\TotalIndex.exe
+C:\cs\CodeGymT4\TotalIndex\bin\Debug\net8.0\TotalIndex.deps.json
+C:\cs\CodeGymT4\TotalIndex\bin\Debug\net8.0\TotalIndex.runtimeconfig.json
+C:\cs\CodeGymT4\TotalIndex\bin\Debug\net8.0\TotalIndex.dll
+C:\cs\CodeGymT4\TotalIndex\bin\Debug\net8.0\TotalIndex.pdb
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.AssemblyInfoInputs.cache
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.AssemblyInfo.cs
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.dll
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\refint\TotalIndex.dll
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.pdb
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\TotalIndex.genruntimeconfig.cache
+C:\cs\CodeGymT4\TotalIndex\obj\Debug\net8.0\ref\TotalIndex.dll
