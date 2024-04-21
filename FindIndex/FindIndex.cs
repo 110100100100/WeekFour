@@ -1,17 +1,17 @@
-﻿string[] students = {"Christian", "Michael", "Camila", "Sienna", "Tanya", "Connor", "Zachariah", "Mallory", "Zoe", "Emily"};
-Console.WriteLine("Enter a name’s student:");
+string[] students = {"Christian", "Michael", "Camila", "Sienna", "Tanya", "Connor", "Zachariah", "Mallory", "Zoe", "Emily"};
+System.Console.WriteLine("Nhập tên bạn muốn tìm: ");
 string input_name = Console.ReadLine();
 bool isExist = false;
 for (int i = 0; i < students.Length; i++)
  {
      if (students[i].Equals(input_name))
      {
-          Console.WriteLine("Position of the students in the list " + input_name + " is: " + (i + 1));
+          System.Console.WriteLine("Vị trí của sinh viên trong danh sách " + input_name + " là: " + (i + 1));
           isExist = true;
           break;
      }
 }
 if (!isExist)
 {
-        Console.WriteLine("Not found" + input_name + " in the list.");
+       System.Console.WriteLine("Không tìm thấy đối tượng cần tìm."); 
 }
